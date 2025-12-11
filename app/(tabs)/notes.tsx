@@ -1,7 +1,6 @@
-import React from "react"
 import { Text, View } from "react-native"
 
-export default function HomeScreen() {
+export default function NotesScreen() {
   return (
     <View
       style={{
@@ -9,7 +8,7 @@ export default function HomeScreen() {
         justifyContent: "center",
         alignItems: "center",
       }}>
-      <Text style={{}}>To-Do App</Text>
+      <Text>Notes</Text>
     </View>
   )
 }

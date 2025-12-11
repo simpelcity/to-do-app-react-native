@@ -55,6 +55,8 @@
       "eas": {
         "projectId": "9b071b85-19c2-4afc-a5eb-bbb40832aab1"
       }
-    }
-  }
+    },
+    "sdkVersion": "54.0.0"
+  },
+  "name": "my-app"
 }
